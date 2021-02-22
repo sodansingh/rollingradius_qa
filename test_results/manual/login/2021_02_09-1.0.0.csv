@@ -1,2 +1,3 @@
-Test Case Number	Actual Result	Pass	Date Executed	Time Executed	Test Case Executed By
-1	Saw the popup	1	2021_02_09	14_30	Yogesh
+Test Case Number,Actual Result,Pass,Date Executed,Time Executed,Test Case Executed By
+1,Saw the popup,1,2021_02_09,14_30,Yogesh
+2,It shown the pricing of subscription,1,2021_02_17,20_52,Vikram Singh
